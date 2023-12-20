@@ -10,6 +10,7 @@
 "user": ["ou-Ea6pFMES6tfck05c76Y0cg7vs","ou-Ea6jl3fPJLRyiUalqbv2rz1fw"],
 
 # 信息配置
+region:"新郑市"
 # 所在省份
 "province": "河南省",
 # 所在城市
