@@ -15,8 +15,8 @@
 # 所在城市
 "city": "郑州",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "通通", "birthday": "r2000-05-29"},
-"birthday2": {"name": "过过2", "birthday": "r2003-10-19"},
+"birthday1": {"name": "通通", "birthday": "r2004-09-07"},
+"birthday2": {"name": "过过", "birthday": "r2003-10-19"},
 
 "anniversary1":{"anniversary":"2023-05-01"},
 
